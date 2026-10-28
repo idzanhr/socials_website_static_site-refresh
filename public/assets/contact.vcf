@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Name;Your;;;
+FN:Your Name
+TITLE:Your Job Title
+EMAIL;TYPE=INTERNET,PREF:you@example.com
+URL;TYPE=WORK:https://example.com/
+URL:https://socials.example.com/
+NOTE:Edit this file with your own details (see README).
+END:VCARD

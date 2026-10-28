@@ -1,0 +1,16 @@
+# Build output of tools/brand-icons.py
+site-upload.zip
+
+# Your own photo, QR code and fonts stay out of the repository
+public/assets/img/*
+!public/assets/img/.keep
+public/assets/fonts/*
+!public/assets/fonts/.keep
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+__pycache__/
