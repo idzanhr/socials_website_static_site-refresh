@@ -161,4 +161,10 @@ location ~* (\.html|/)$ {
 
 ## License
 
-The code and templates are under the [MIT License](LICENSE). The Font Awesome icons in `brand-icons/` and in the page sprite are under CC BY 4.0, as described above.
+Copyright (C) 2026 idzanhr and contributors.
+
+The code and templates are free software under the **[GNU General Public License v3.0](LICENSE) or any later version** (`GPL-3.0-or-later`). You may use, change and share them. If you distribute this project or a modified version, you must keep these notices and license your version under the GPL too, with its source code available. Using it for your own website doesn't oblige you to publish anything: serving pages to visitors isn't distribution under the GPL.
+
+The Font Awesome icons in `brand-icons/` and in the page sprite are licensed separately under CC BY 4.0 (see [Credits](#credits)). That license is compatible with GPLv3.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.

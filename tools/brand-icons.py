@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 idzanhr and contributors. SPDX-License-Identifier: GPL-3.0-or-later
 """
 Put brand icons (SVG) into the social links page.
 

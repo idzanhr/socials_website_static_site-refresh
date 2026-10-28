@@ -1,4 +1,5 @@
 /* Social links page — light/dark theme.
+   Copyright (C) 2026 idzanhr and contributors. SPDX-License-Identifier: GPL-3.0-or-later
    Loaded in <head> without "defer" so the right theme is set before the page
    is drawn (no flash). Keep it small.
 

@@ -1,4 +1,5 @@
-/* Social links page — consent banner + small page helpers. No dependencies. */
+/* Social links page — consent banner + small page helpers. No dependencies.
+   Copyright (C) 2026 idzanhr and contributors. SPDX-License-Identifier: GPL-3.0-or-later */
 (function () {
   'use strict';
 
